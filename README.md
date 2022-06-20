@@ -7,3 +7,10 @@ TO DO:
 2. connection?(UDP+TCP?)
 
 3. Add UDP search to s?
+
+FINISH:
+1. archive, restore, destroy, fetch, add, delete, log
+
+2. UDP+TCP
+
+3. UPD broadcast listen
